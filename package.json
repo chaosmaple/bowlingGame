@@ -1,0 +1,21 @@
+{
+  "name": "bowling_game",
+  "version": "0.0.1",
+  "description": "coderetreat chengdu 2015",
+  "main": "bowling.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "expect.js": "^0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "bowling"
+  ],
+  "author": "mayo",
+  "license": "ISC"
+}
